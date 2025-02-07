@@ -79,4 +79,4 @@ FUNÇÃO definir_capacidades():
 ---
 
 Esse pseudocódigo resume o funcionamento principal do `InstanceSelectedClassifier3`, focando no treinamento baseado na confiança das previsões e na estrutura de detecção de mudanças de conceito (**concept drift**).
-
+O código real esta em https://github.com/Vitor-Izidoro/Criando-uma-Sele-o-de-Instancias/blob/main/InstanceSelectedClassifier3.java (dentro deste mesmo portifólio)
